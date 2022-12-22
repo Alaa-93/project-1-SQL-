@@ -8,5 +8,5 @@ PROJECT- Investigate a Relational Database
 ## Description
 use SQL to explore a database related to movie rentals.  write SQL code to run SQL queries and answer interesting questions about the database. 
 
-##Files used
+## Files used
 SQL.txt
